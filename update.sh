@@ -5,7 +5,7 @@
  
 git add .
 
-DATE = $(date)
+DATE=$(date)
 
 git commit -m "changes made on $DATE"
 
