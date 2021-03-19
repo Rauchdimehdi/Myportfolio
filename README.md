@@ -26,7 +26,5 @@ I decided to install Jenkins-stable Redhat Packages
 
 
 
-
-
 ## Links:
 [Hosting a static website for free on AWS S3](https://youtu.be/21endzyDgkQ)
