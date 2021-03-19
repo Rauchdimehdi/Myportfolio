@@ -1,8 +1,5 @@
 #!/bin/bash
 
- 
-
- 
 git add .
 
 DATE=$(date)
